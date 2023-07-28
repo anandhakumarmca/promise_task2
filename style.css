@@ -15,7 +15,7 @@ body{
   flex-wrap: wrap;
   justify-content: center;
   align-items: flex-start;
-  background-color: #e06000;
+  background-color: #bed9dd;
 }
 
 .card{
@@ -25,19 +25,15 @@ body{
 }
 
 .card-body{
-  background-color: #ee9600;
+  background-color: #b7b7b7;
 }
 
 .card-text{
   padding: 5px;
   font-family:Georgia, 'Times New Roman', Times, serif;
-  color: azure;
   font-size: x-large;
 }
 
-#title{
-  color: white;
-}
 
 .fa-rocket{
     font-size: xx-large;
