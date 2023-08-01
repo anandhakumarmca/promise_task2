@@ -35,8 +35,8 @@ body {
 /* Heading styles */
 h3 {
   margin: 0;
-  opacity: 0.5;
   letter-spacing: 2px;
+  color: darkorange;
 }
 
 /* Spacecraft name styles */
@@ -50,7 +50,7 @@ h3 {
 
 /* Button styles */
 .btn {
-  background-color: #7b2eee;
+  background-color:royalblue;
   color: #fff;
   border: 0;
   border-radius: 15px;
