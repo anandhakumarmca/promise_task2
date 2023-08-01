@@ -69,3 +69,19 @@ h3 {
 .btn:focus {
   outline: 0;
 }
+
+/* Media Query for Responsive Layout */
+@media screen and (max-width: 600px) {
+
+  body {
+    padding: 10px;
+  }
+
+  .container {
+    width: 90%;
+  }
+
+  .spacecraft {
+    font-size: 24px;
+  }
+}
